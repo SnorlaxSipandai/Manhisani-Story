@@ -97,7 +97,7 @@ const closeLightbox = () => {
   <!-- closing navbar -->
 
   <!-- main content -->
-  <div data-aos='zoom-in' id="#" class="relative h-screen w-full bg-[url(../assets/images/bg-main.jpg)] bg-cover bg-[center_top_40%]">
+  <div data-aos='zoom-in' id="#" class="relative h-screen w-full bg-[url(../assets/images/bg-main.webp)] bg-cover bg-[center_top_40%]">
   </div>
   <!-- closing main content-->
 
