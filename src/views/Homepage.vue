@@ -58,7 +58,7 @@ const closeLightbox = () => {
 </script>
 
 <template>
-  <audio ref='audio' src="/public/music/Indila - Love Story Slowed  Short & Lyric & Instrumental & Music.mp3" loop></audio>
+  <audio ref='audio' src="/music/Indila - Love Story Slowed  Short & Lyric & Instrumental & Music.mp3" loop></audio>
   <!-- navbar -->
   <nav>
 
@@ -69,7 +69,7 @@ const closeLightbox = () => {
           <h1 class=" text-[30px] font-ballet font-semibold"><a href="#">Manhisani</a> </h1>
     </div>
 
-    <img @click="toggle" :src="playing ? '/public/pause-button.png' : '/public/speaker-active.png'"
+    <img @click="toggle" :src="playing ? '/pause-button.png' : '/speaker-active.png'"
       class="w-5 cursor-pointer">
     <!-- <img v-show="true" src="/public/pause-button.png" class="w-8"> -->
 
