@@ -198,12 +198,12 @@ const startAudio = async () => {
         </h1>
         <div>
           <img
-            src="../assets/images/DSC06565.jpg"
+            src="/iman.webp"
             class="absolute h-screen transition-transform duration-500 ease-out shadow-2xl shadow-blue-500"
             :class="openLove ? 'translate-0' : '-translate-x-full'"
           />
           <img
-            src="../assets/images/tiara.jpg"
+            src="/tiara.webp"
             class="absolute h-screen right-0 transition-transform duration-500 ease-out shadow-2xl shadow-pink-500"
             :class="openLove ? 'translate-0' : 'translate-x-full'"
           />
